@@ -8,7 +8,7 @@
 
 - JAVA、Python、Shell
 - Docker、Kubernetes、Prometheus、Thanos
-- Redis、Nginx、RabbitMQ、Tomcat
+- Redis、Nginx、RabbitMQ、Tomcat、Apache
 
 [GitHub](https://github.com/zyz-notebooks)
 [Get Started](./)
