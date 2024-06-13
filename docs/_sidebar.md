@@ -1,9 +1,10 @@
 <!-- docs/_sidebar.md -->
+
 * [首页](/)
 * [JAVA](./README)
-  * [Spring](guide.md "Spring")
-  * [Spring Boot](guide.md "Spring Boot")
-  * [Spring Cloud](guide.md "Spring Cloud")
+  * [Spring](Spring.md "Spring")
+  * [Spring Boot](Spring_Boot.md "Spring Boot")
+  * [Spring Cloud](Spring_Cloud.md "Spring Cloud")
 * [Python](./README)
   * [Pytorch](guide.md "Pytorch")
   * [Spring Boot](guide.md "Spring")

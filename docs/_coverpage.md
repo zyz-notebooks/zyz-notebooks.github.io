@@ -11,4 +11,4 @@
 - Redis、Nginx、RabbitMQ、Tomcat
 
 [GitHub](https://github.com/zyz-notebooks)
-[Get Started](./README.md)
+[Get Started](./)
