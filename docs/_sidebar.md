@@ -18,7 +18,6 @@
   * [Tomcat](guide.md "Tomcat")
   * [TongWeb](guide.md "TongWeb")
 * [DevOps](./README)
-  * [监控概括](./DevOps/监控概括.md "监控概括")
   * [Zabbix](guide.md "Zabbix")
   * [Prometheus](guide.md "Prometheus")
   * [Thanos](guide.md "Thanos")
